@@ -1,4 +1,5 @@
 $(document).ready(function () {
+  alert("Hi");
   let typeInput = $('#type');
   let priceInput = $('#price');
   let quantityInput = $('#quantity');
